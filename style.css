@@ -1,0 +1,70 @@
+* {
+   
+    font-family: 'Lora', sans-serif;
+}
+
+/* Nçao esquecer das letras */
+html {
+    max-height: 100%;
+}
+
+body {
+    background-color: rgba(255, 179, 0, 0.6);
+}
+#cabecalho {
+    background-color: orange;
+}
+
+.carousel-item img {
+    max-width: 100%;
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+}
+
+.carousel-caption{
+    color:purple;
+    font-size: x-large;
+}
+
+.text-underline {
+    text-decoration: underline;
+}
+.sobre-img img{
+    max-height: 400px;
+    object-fit: cover;
+}
+
+.btn {
+    background-color: rgb(228, 162, 75);;
+}
+
+.btn a {
+    color: black;
+    text-decoration: none;
+}
+
+.nav-astros >.nav-link.active {
+    background-color: rgb(228, 162, 75);
+    color: rgba(0,0,0,0.8)
+}
+.nav-astros .nav-link {
+    color: rgba(0,0,0,0.6)
+}
+
+ul li {
+    list-style: none;
+} 
+
+.text-color{
+    color: rgb(191, 126, 6);
+
+}
+.nav .nav-link.active{
+    background-color: #fff;
+    color: orange;
+}
+
+.nav .nav-link {
+    color:  rgb(191, 126, 6);
+}
