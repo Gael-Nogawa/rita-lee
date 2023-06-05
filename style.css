@@ -3,10 +3,7 @@
     font-family: 'Lora', sans-serif;
 }
 
-/* Nçao esquecer das letras */
-html {
-    max-height: 100%;
-}
+
 
 body {
     background-color: rgba(255, 179, 0, 0.6);
@@ -67,4 +64,33 @@ ul li {
 
 .nav .nav-link {
     color:  rgb(191, 126, 6);
+}
+
+form #nome{
+    text-transform: capitalize;
+}
+
+
+@media (max-width: 767px){
+    .carousel-item img {
+        height: 280px;
+    }
+    .sobre-img img{
+        margin: 0 auto;
+    }
+    
+
+}
+
+@media (max-width: 992px){
+
+    .row {
+        display: flex;
+        justify-content: center;
+    }
+   
+
+    .rita-texto {
+        text-align: center;
+    }
 }
