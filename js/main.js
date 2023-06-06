@@ -31,6 +31,8 @@ $(document).ready(function(){
         
         submitHandler: function(form){
             alert('Enviado com sucesso!');
+            $('form').reset();
+            console.log("cheguei aqui");
             
         
         },
