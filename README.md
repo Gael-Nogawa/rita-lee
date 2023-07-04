@@ -1,4 +1,4 @@
-# rita-lee
+###Rita Lee
 
 Site criado para homenagear a cantora Rita Lee.
 
