@@ -1,5 +1,5 @@
 ## <b>Rita Lee</b>
-[Clique aqui para visualizar]("https://rita-lee.vercel.app/" "Site para homenagear a cantora Rita Lee")
+<a href="https://rita-lee.vercel.app/"/>Clique para visualizar<a> 
 
 
 Site criado para homenagear a cantora Rita Lee e sua história.
